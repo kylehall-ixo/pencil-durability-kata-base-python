@@ -5,6 +5,7 @@ The purpose of the Pencil Durability Kata is to write code to simulate, first co
 
 This repo contains a base project you should clone/fork before working on the user stories below.
 It uses pytest as its test runner, and comes with passing test to get you going.
+The pytest dependency is specified in a Pipfile, so you should install it before continuing.
 
 ## Write
 *As a writer  
